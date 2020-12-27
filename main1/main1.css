@@ -1,0 +1,52 @@
+*{
+	margin:0;
+	font-family: arial;
+}
+.main1{
+	height: 100vh;
+	width: 100vw;
+}
+.main1img{
+	position: absolute;
+	height: 100vh;
+	width: 100vw;
+}
+.menu{
+	position: absolute;
+	width: 100vw;
+	margin-top: 90.1vh;
+}
+.menuprofile{
+	position: absolute;
+	width: 75px;
+	margin-top: 91.45vh;
+	margin-left: 78.3vw;
+}
+.menuplane{
+	position: absolute;
+	width: 54px;
+
+	margin-top: 92.05vh;
+	margin-left: 62.1vw;
+}
+.menuusl{
+	position: absolute;
+	width: 36px;
+
+	margin-top: 91.45vh;
+	margin-left: 45.33vw;
+}
+.menuworld{
+	position: absolute;
+	width: 51px;
+
+	margin-top: 91.45vh;
+	margin-left: 23.73vw;
+}
+.menumain{
+	position: absolute;
+	width: 44px;
+
+	margin-top: 91.45vh;
+	margin-left: 4.8vw;
+}

@@ -1,0 +1,53 @@
+*{
+	margin:0;
+	font-family: arial;
+}
+.main3{
+	height: 100vh;
+	width: 100vw;
+	background: white;
+}
+.main3img{
+	position: absolute;
+}
+.menu{
+	position: absolute;
+	width: 375px;
+	height: 66px;
+	margin-top: 90.1vh;
+}
+.menuprofile{
+	position: absolute;
+	width: 75px;
+	height: 54px;
+	margin-top: 91.45vh;
+	margin-left: 78.3vw;
+}
+.menuplane{
+	position: absolute;
+	width: 54px;
+	height: 42px;
+	margin-top: 92.05vh;
+	margin-left: 62.1vw;
+}
+.menuusl{
+	position: absolute;
+	width: 36px;
+	height: 54px;
+	margin-top: 91.45vh;
+	margin-left: 45.33vw;
+}
+.menuworld{
+	position: absolute;
+	width: 51px;
+	height: 54px;
+	margin-top: 91.45vh;
+	margin-left: 23.73vw;
+}
+.menumain{
+	position: absolute;
+	width: 44px;
+	height: 54px;
+	margin-top: 91.45vh;
+	margin-left: 4.8vw;
+}

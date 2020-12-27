@@ -1,0 +1,92 @@
+*{
+	margin:0;
+	font-family: arial;
+}
+.str1{
+	height: 100vh;
+	width: 100vw;
+	background: white;
+}
+.textstr1{
+	position: absolute;
+	margin-top: 3.29vh;
+	font-weight: 400;
+	font-size: 18px;
+	text-align: center;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 22px;
+	color: black;
+	margin-left: 8.53vw;
+}
+.str1img1{
+	position: absolute;
+	margin-top: 8.09vh;
+	margin-left: 3.73vw;
+}
+.str1img2{
+	position: absolute;
+	margin-top: 34.4vh;
+	margin-left: 3.73vw;
+}
+.str1img3{
+	position: absolute;
+	margin-top: 60.8vh;
+	margin-left: 3.73vw;
+}
+.more{
+	position: absolute;
+	width: 21px;
+	height: 11px;
+	margin-top: 85.75vh;
+	font-weight: 400;
+	font-size: 9px;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 11px;
+	color: black;
+	margin-left: 88vw;
+}
+.menu{
+	position: absolute;
+	width: 375px;
+	height: 66px;
+	margin-top: 89.8vh;
+}
+.menuprofile{
+	position: absolute;
+	width: 79px;
+	height: 46px;
+	margin-top: 91.1vh;
+	margin-left: 78.3vw;
+}
+.menuplane{
+	position: absolute;
+	width: 54px;
+	height: 42px;
+	margin-top: 91.75vh;
+	margin-left: 62.1vw;
+}
+.menuusl{
+	position: absolute;
+	width: 37px;
+	height: 46px;
+	margin-top: 91.15vh;
+	margin-left: 45.33vw;
+}
+.menuworld{
+	position: absolute;
+	width: 51px;
+	height: 46px;
+	margin-top: 91.15vh;
+	margin-left: 23.73vw;
+}
+.menumain{
+	position: absolute;
+	width: 43px;
+	height: 46px;
+	margin-top: 91.15vh;
+	margin-left: 4.8vw;
+}
